@@ -1,0 +1,28 @@
+WASEDA-IREVAL WWW data			2022.08.31 tetsuya@waseda.jp
+
+README-wwwdata
+	This file
+
+www4topics.xml
+	English queries and their IDs (50 queries)
+
+www4gold-corrected.qrels
+	Relevance assessments for the above 50 topics
+
+waseda-runlist
+	list of run files (4 runs)
+
+Run files:
+    KASYS-CO-REV-6 (from the University of Tsukuba, Japan)
+    SLWWW-CO-NEW-4 (from Waseda University, Japan)
+    THUIR-CO-NEW-2 (from Tsinghua University, P.R.C.)
+    baseline (from the task organisers)
+
+References
+
+[1] Sakai, T. et al.: Overview of the NTCIR-16 We Want Web with CENTRE (WWW-4) Task, Proceedings of NTCIR-16, pp.234-245, 2022. 
+https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/01-NTCIR16-OV-WWW-SakaiT.pdf
+*NOTE that the "Gold" results in this overview paper are incorrect. Please refer to [2] for the corrected results.
+
+[2] Sakai, T. et al.: Corrected Evaluation Results of the NTCIRWWW-2,WWW-3,
+andWWW-4 English Subtasks, arxiv, to appear, 2022.

@@ -1,0 +1,252 @@
+<queries>
+	<query>
+		<qid>0201</qid>
+		<content>Timnit Gebru Google</content>
+		<description>I want to know the details regarding Google's firing of Dr. Timnit Gebru.</description>
+	</query>
+	<query>
+		<qid>0202</qid>
+		<content>New Orleans restaurants</content>
+		<description>Tell me about good restaurants in New Orleans.</description>
+	</query>
+	<query>
+		<qid>0203</qid>
+		<content>idf inventor</content>
+		<description>I want to know if my search engine can find who invented inverse document frequency.</description>
+	</query>
+	<query>
+		<qid>0204</qid>
+		<content>Tokyo olympics coronavirus athlete</content>
+		<description>Which athletes or former athletes expressed concerns about holding the Tokyo Olympics amid COVID-19?</description>
+	</query>
+	<query>
+		<qid>0205</qid>
+		<content>thomas dolby songs</content>
+		<description>I'm collecting information about songs released by Thomas Dolby.</description>
+	</query>
+	<query>
+		<qid>0206</qid>
+		<content>DC and Marvel characters</content>
+		<description>I want to read documents that compare DC and Marvel characters.</description>
+	</query>
+	<query>
+		<qid>0207</qid>
+		<content>dirty loops bassist</content>
+		<description>What is the name of Dirty Loops' bassist?</description>
+	</query>
+	<query>
+		<qid>0208</qid>
+		<content>cultural appropriation cases</content>
+		<description>I want to read about specific situations considered by some to be cultural appropriation. Who have been accused?</description>
+	</query>
+	<query>
+		<qid>0209</qid>
+		<content>YOLO</content>
+		<description>what is the meaning of "YOLO"?</description>
+	</query>
+	<query>
+		<qid>0210</qid>
+		<content>hypothermia treatment</content>
+		<description>I want to know how to deal with hypothermia when it happens</description>
+	</query>
+	<query>
+		<qid>0211</qid>
+		<content>social anxiety</content>
+		<description>I'm collecting information about social anxiety</description>
+	</query>
+	<query>
+		<qid>0212</qid>
+		<content>chiffon cake recipe</content>
+		<description>I want to find some recipes for making a chiffon cake</description>
+	</query>
+	<query>
+		<qid>0213</qid>
+		<content>dark chocolate health</content>
+		<description>whether eating dark chocolate will benefit our health or not?</description>
+	</query>
+	<query>
+		<qid>0214</qid>
+		<content>cat lily poisonous</content>
+		<description>Is lily poisonous to cats?</description>
+	</query>
+	<query>
+		<qid>0215</qid>
+		<content>cat food reviews</content>
+		<description>I want to collect reviews about different brands of cat food.</description>
+	</query>
+	<query>
+		<qid>0216</qid>
+		<content>Ethics in AI</content>
+		<description>I'm looking for a general discussion about ethical issues and problems in the developement and adoption of Artificial Intelligence</description>
+	</query>
+	<query>
+		<qid>0217</qid>
+		<content>inventor of the Web</content>
+		<description>Who is the inventor of the World Wide Web?</description>
+	</query>
+	<query>
+		<qid>0218</qid>
+		<content>deep Web</content>
+		<description>What is the deep Web?</description>
+	</query>
+	<query>
+		<qid>0219</qid>
+		<content>What is SEO?</content>
+		<description>What is Search Engine Optimization?</description>
+	</query>
+	<query>
+		<qid>0220</qid>
+		<content>half life</content>
+		<description>I'm looking for information about Half-Life, the story, and the characters</description>
+	</query>
+	<query>
+		<qid>0221</qid>
+		<content>M1 vs intel</content>
+		<description>Comparison of Apple M1 processor with respect to Intel processors</description>
+	</query>
+	<query>
+		<qid>0222</qid>
+		<content>NoSQL</content>
+		<description>I'm looking for a defintion of NoSQL and what is it</description>
+	</query>
+	<query>
+		<qid>0223</qid>
+		<content>czechoslovakia divide reason 1993</content>
+		<description>You want to know why Czechoslovakia was divided into two countries</description>
+	</query>
+	<query>
+		<qid>0224</qid>
+		<content>manado country</content>
+		<description>You want to know which country Manado belong to</description>
+	</query>
+	<query>
+		<qid>0225</qid>
+		<content>signifier saussure theory</content>
+		<description>You want to know the meaning of term "signifier" in linguist Saussure's theory</description>
+	</query>
+	<query>
+		<qid>0226</qid>
+		<content>iaijutsu</content>
+		<description>You just saw a word "iaijutsu" and you want to know what it is</description>
+	</query>
+	<query>
+		<qid>0227</qid>
+		<content>klingon language</content>
+		<description>You want to know more about Klingon Language</description>
+	</query>
+	<query>
+		<qid>0228</qid>
+		<content>block chain crypto</content>
+		<description>You want to know the relationship between block chain and crypto currencies</description>
+	</query>
+	<query>
+		<qid>0229</qid>
+		<content>side effect pfizer</content>
+		<description>You are going to have the jab and you want to know the possible side effect of pfizer</description>
+	</query>
+	<query>
+		<qid>0230</qid>
+		<content>date of Chinese New Year 2021</content>
+		<description>You want to find the precise date of Chinese New Year in 2021</description>
+	</query>
+	<query>
+		<qid>0231</qid>
+		<content>beautiful mess lyrics</content>
+		<description>You want to find the lyrics of the song "beautiful mess"</description>
+	</query>
+	<query>
+		<qid>0232</qid>
+		<content>chrome download windows</content>
+		<description>You want to download windows version Chrome program</description>
+	</query>
+	<query>
+		<qid>0233</qid>
+		<content>COVID-19 vaccine fake news</content>
+		<description>You want to know about the fake news of COVID-19 vaccine</description>
+	</query>
+	<query>
+		<qid>0234</qid>
+		<content>Warriors v.s. NETS 2021</content>
+		<description>You want to find the NBA match information between Warriors team and NETS team in 2021</description>
+	</query>
+	<query>
+		<qid>0235</qid>
+		<content>quantum theory introduction</content>
+		<description>You want to find some introduction information about quantum theory</description>
+	</query>
+	<query>
+		<qid>0236</qid>
+		<content>tennis score rules</content>
+		<description>You want to know the scoring rules of tennis matches</description>
+	</query>
+	<query>
+		<qid>0237</qid>
+		<content>indoor low light plants</content>
+		<description>You want to buy a plant, but your apartment is not very bright. You want to know which plants can grow in a low light environment.</description>
+	</query>
+	<query>
+		<qid>0238</qid>
+		<content>places see northern light</content>
+		<description>You want to take winter holiday and you would like to see the northern light. You want to know from which places you can see the northern light. </description>
+	</query>
+	<query>
+		<qid>0239</qid>
+		<content>malawi 2019 presidential elections</content>
+		<description>You heard that in 2019 Malawi had presidential elections that were invalidated due to fraud in votes counting. You want to know more about this. </description>
+	</query>
+	<query>
+		<qid>0240</qid>
+		<content>what is clickbait</content>
+		<description>You heard the word "clickbait". You want to learn more about this phenomenon and possible solutions to deal with it.</description>
+	</query>
+	<query>
+		<qid>0241</qid>
+		<content>horror movies watch halloween</content>
+		<description>Holloween is approaching and you search for suggestions of horror movies you can watch.</description>
+	</query>
+	<query>
+		<qid>0242</qid>
+		<content>kiruna moving town</content>
+		<description>You heard that Kiruna, a small town in Sweden, needs to be relocated. You would like to have more information about this town.</description>
+	</query>
+	<query>
+		<qid>0243</qid>
+		<content>environment mining uranium</content>
+		<description>You want to know about possible environmental issues of mining uranium.</description>
+	</query>
+	<query>
+		<qid>0244</qid>
+		<content>cherry blossom places in Japan</content>
+		<description>You want to know where to see cherry blossom in Japan</description>
+	</query>
+	<query>
+		<qid>0245</qid>
+		<content>chicken breast recipes</content>
+		<description>You want to learn some chicken breast recipes</description>
+	</query>
+	<query>
+		<qid>0246</qid>
+		<content>best game nintendo switch</content>
+		<description>You want to know some popluar game titles on Nintendo Switch</description>
+	</query>
+	<query>
+		<qid>0247</qid>
+		<content>spider man 3 title</content>
+		<description>You want to know the title of the third spider-man movie.</description>
+	</query>
+	<query>
+		<qid>0248</qid>
+		<content>PS5 price</content>
+		<description>You want to know the price of a PlayStation 5</description>
+	</query>
+	<query>
+		<qid>0249</qid>
+		<content>road bike rim vs disc brakes</content>
+		<description>You want to compare rim brakes and disc brakes on a road bike</description>
+	</query>
+	<query>
+		<qid>0250</qid>
+		<content>trek emonda price</content>
+		<description>You want to know how much is a trek emonda road bike</description>
+	</query>
+</queries>	
